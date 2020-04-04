@@ -4,8 +4,10 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
+    "gulp": "^3.9.1",
     "gulp-connect": "^5.7.0",
-    "gulp": "^3.9.1"
+    "gulp-css-flipper": "^1.0.2",
+    "merge-stream": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
